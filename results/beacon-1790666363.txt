@@ -1,0 +1,12 @@
+=== VICTIM VM runnervm3p1d5 2026-09-29T07:09:41Z ===
+int_ip=10.1.0.128
+pub_ip=74.249.133.161
+ipv6=
+boot=2026-09-29 07:08:15
+LISTEN 0      128          0.0.0.0:22        0.0.0.0:*          
+LISTEN 0      5            0.0.0.0:9999      0.0.0.0:*          
+LISTEN 0      500          0.0.0.0:8084      0.0.0.0:*          
+LISTEN 0      128             [::]:22           [::]:*          
+ssh_ready=yes
+setup_complete_beaconing
+victim_exiting 2026-09-29T07:19:22Z
